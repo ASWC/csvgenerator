@@ -1,0 +1,6 @@
+C:\Dev\11-2020\CSVGenerator\CSVGenerator\bin\Debug\CSVGenerator.dll
+C:\Dev\11-2020\CSVGenerator\CSVGenerator\bin\Debug\CSVGenerator.pdb
+C:\Dev\11-2020\CSVGenerator\CSVGenerator\obj\Debug\CSVGenerator.csproj.CoreCompileInputs.cache
+C:\Dev\11-2020\CSVGenerator\CSVGenerator\obj\Debug\CSVGenerator.dll
+C:\Dev\11-2020\CSVGenerator\CSVGenerator\obj\Debug\CSVGenerator.pdb
+C:\Dev\11-2020\CSVGenerator\CSVGenerator\obj\Debug\CSVGenerator.csprojAssemblyReference.cache
